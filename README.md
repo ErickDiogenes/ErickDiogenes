@@ -1,19 +1,5 @@
-logotipo do gerador de redução de perfil do github
-Gerador README de perfil GitHub
-Marque este repositório com estrela
-17815
-Fork no GitHub
-5227
 
-Voltar á editar
 
-marcação de cópia
-
-baixar redução
-
-baixar backup
-
-visualização
 <h1 align="center">Olá 👋, sou Erick D Silva</h1>
 <h3 align="center">Um apaixonado desenvolvedor backend do Brasil</h3>
 
