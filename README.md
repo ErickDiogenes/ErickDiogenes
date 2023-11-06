@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, sou Erick</h1>
 <h3 align="center">Um apaixonado desenvolvedor backend do Brasil</h3>
 
-- 🌱 Atualmente estou aprendendo **Engenheiro de Software**
+- 🌱 Atualmente estou aprendendo **Engenharia de Software**
 
-- 👯 Quero colaborar na **Empresa**
+- 👯 Quero colaborar em **Projetos de desenvolvimento de software**
 
 - 🤝 Estou procurando ajuda com **Empregos**
 
