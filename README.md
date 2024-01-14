@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Erick</h1>
-<h3 align="center">Um apaixonado desenvolvedor backend do Brasil</h3>
+<h3 align="center">Um apaixonado desenvolvedor web do Brasil</h3>
 
 - 🌱 Atualmente estou aprendendo **Engenharia de Software**
 
