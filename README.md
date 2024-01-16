@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Engenharia de Software**
 
-- 👯 Quero colaborar em **Desenvolvimento de Aplicações**
+- 👯 Quero colaborar em **Desenvolvimento Web**
 
 - 🤝 Estou procurando por **Emprego**
 
