@@ -5,7 +5,7 @@
 
 - 👯 Quero colaborar em **Desenvolvimento Web**
 
-- 🤝 Estou procurando por **Emprego**
+- 🤝 Estou procurando por **Job**
 
 - 💬 Pergunte-me sobre **Desenvolvimento Web**
 
