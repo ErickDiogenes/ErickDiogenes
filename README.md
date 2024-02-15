@@ -11,6 +11,6 @@
 
 - 📫 Como entrar em contato comigo **erycdiogenes@gmail .com**
 
-- ⚡ Curiosidade **Venho de uma cidade do interior onde a tecnologia praticamente não existia e estou me tornando um especialista!**
+- ⚡ Curiosidade **Sou do interior onde a tecnologia praticamente não existia e estou me tornando um especialista!**
 
 
