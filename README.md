@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, sou Erick</h1>
-<h3 align="center">Um apaixonado por programação do Brasil</h3>
+<h1 align="center">Hi dear 👋, I'm Erick</h1>
+<h3 align="center">Web Developer From Brazil</h3>
 
-- 🌱 Atualmente estou aprendendo **Engenharia de Software**
+- 🌱I'm currently learning **Software Engineering**
 
 - 👯 Quero colaborar em **Desenvolvimento Web**
 
