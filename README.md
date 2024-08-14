@@ -1,9 +1,9 @@
-<h1 align="center">Hi dear 👋, I'm Erick</h1>
-<h3 align="center">Web Developer From Brazil</h3>
+<h1 align="left">Olá 🖖, Me chamo Erick</h1>
+<h3 align="left">Desenvolvedor WEB/Mobile</h3>
 
-- 🌱I'm currently learning **Software Engineering**
 
-- 👯 Quero colaborar em **Desenvolvimento Web**
+- 💻 **Desenvolvedor e Professor Java**
+- Preecisando de aprender ou de uma direção nos estudos? [Clique aqui para me contatar WhatsApp](https://wa.me/5511912345678?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20aulas%2Fmentoria)
 
 - 🤝 Estou procurando por **Job**
 
