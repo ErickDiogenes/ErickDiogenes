@@ -3,7 +3,7 @@
 
 
 - 💻 **Desenvolvedor e Professor Java**
-- Preecisando de aprender ou de uma direção nos estudos? [Clique aqui para me contatar WhatsApp](https://wa.me/5511912345678?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20aulas%2Fmentoria)
+   Preecisando de aprender ou de uma direção nos estudos? [Clique aqui para me contatar WhatsApp](https://wa.me/5584986300260?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20aulas%2Fmentoria)
 
 - 🤝 Estou procurando por **Job**
 
