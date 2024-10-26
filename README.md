@@ -31,7 +31,7 @@ Estou sempre em evolução! Meus próximos passos incluem:
 
 ## 📬 Como me encontrar:
 Estou aberto a novas ideias, colaborações e feedbacks. Se você quiser discutir algo ou colaborar, entre em contato:
-- 📧 Email: [seu.email@exemplo.com](mailto:erycdiogenes@gmail.com)
+- 📧 Email: [erycdiogenes@gmail.com](mailto:erycdiogenes@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/erickdiogenes)
 
 
