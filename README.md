@@ -6,7 +6,8 @@ Desenvolvedor Web/Mobile aceitando novos desafios, tem interesse em me contratar
 ## 🚀 O que estou fazendo agora:
 Refatorando meu Github para proporcionar a você meu amigo ou recrutador uma experiência visual melhor.
  
-[███-------] 25%
+[█████---------------] 25%
+
 
 
 ## 📬 Como me encontrar:
