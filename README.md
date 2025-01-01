@@ -4,31 +4,10 @@ Desenvolvedor Web/Mobile aceitando novos desafios, tem interesse em me contratar
 
 
 ## 🚀 O que estou fazendo agora:
-Estou me dedicando a várias áreas para melhorar minha presença no GitHub e meus projetos:
-- **Refatorando** repositórios antigos para aplicar padrões modernos de código e boas práticas.
-- **Aprendendo** novas tecnologias e frameworks para agregar valor aos meus projetos.
-- **Organizando** minha metodologia de trabalho para otimizar o desenvolvimento.
-- **Criando novas soluções** baseadas em feedbacks e necessidades do mundo real.
+Refatorando meu Github para proporcionar a você meu amigo ou recrutador uma experiência visual melhor.
+ 
+[███-------] 25%
 
-## 🛠 Tecnologias e Ferramentas:
-Tenho experiência com diversas linguagens e frameworks, e estou sempre explorando novas ferramentas para expandir meu conhecimento. Algumas das tecnologias que utilizo:
-- **Linguagens**: Java, JavaScript, Python, SQL
-- **Frameworks**: Spring Boot, Angular, Node.js
-- **Banco de Dados**: PostgreSQL, MongoDB
-- **Ferramentas de Desenvolvimento**: Git, Docker, CI/CD
-
-## ✨ Objetivos Futuros:
-Nos próximos meses, pretendo focar nas seguintes áreas:
-- **Aprimorar meus projetos open-source** com melhor documentação e mais funcionalidades.
-- **Colaborar mais** com a comunidade de desenvolvedores, ajudando em projetos de terceiros.
-- **Estudar arquitetura de sistemas** e padrões de design para criar soluções mais escaláveis e robustas.
-- **Participar ativamente** de hackathons e eventos da comunidade de tecnologia.
-
-## 🌱 Aprendizado Contínuo:
-Estou sempre em evolução! Meus próximos passos incluem:
-- Aprofundar meus conhecimentos em **DevOps** e automação.
-- Criar mais **projetos de impacto**, tanto pessoais quanto colaborativos.
-- **Contribuir para repositórios open-source** de forma consistente.
 
 ## 📬 Como me encontrar:
 Estou aberto a novas ideias, colaborações e feedbacks. Se você quiser discutir algo ou colaborar, entre em contato:
