@@ -1,6 +1,7 @@
 # Bem-vindo ao meu Perfil GitHub 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprendizado contínuo e melhorias nos projetos que faço. Atualmente, estou organizando minhas ideias, ferramentas e repositórios para entregar uma **versão melhorada** do meu trabalho, com foco em qualidade e eficiência.
+Desenvolvedor Web/Mobile aceitando novos desafios, tem interesse em me contratar? [Envie-me um e-mail](mailto:erycdiogenes@gmail.com?subject=Contato%20via%20README&body=Digite%20seu%20texto)
+
 
 ## 🚀 O que estou fazendo agora:
 Estou me dedicando a várias áreas para melhorar minha presença no GitHub e meus projetos:
