@@ -20,10 +20,6 @@ Estou aberto a novas ideias, colaborações e feedbacks. Se você quiser discuti
 
 **Obrigado por visitar meu perfil!** Fique atento às atualizações dos meus projetos e sinta-se à vontade para contribuir ou entrar em contato. Meu foco agora está em entregar versões mais organizadas e robustas de cada repositório, melhorando sempre!
 
----
-
-**Licença**: Todos os meus repositórios são disponibilizados sob a [Licença MIT](LICENSE) (exceto quando especificado).
-
 
 
 
